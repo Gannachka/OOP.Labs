@@ -1,0 +1,13 @@
+E:\лабы\ООП\Lab16\Lab16\bin\Debug\Lab16.exe.config
+E:\лабы\ООП\Lab16\Lab16\bin\Debug\Lab16.exe
+E:\лабы\ООП\Lab16\Lab16\bin\Debug\Lab16.pdb
+E:\лабы\ООП\Lab16\Lab16\obj\Debug\Lab16.csproj.CoreCompileInputs.cache
+E:\лабы\ООП\Lab16\Lab16\obj\Debug\Lab16.exe
+E:\лабы\ООП\Lab16\Lab16\obj\Debug\Lab16.pdb
+E:\лабы\ООП\Lab16\Lab16\obj\Debug\Lab16.csprojAssemblyReference.cache
+D:\2 курс\ООП\OOP-labs-1.0\Lab16\Lab16\bin\Debug\Lab16.exe.config
+D:\2 курс\ООП\OOP-labs-1.0\Lab16\Lab16\bin\Debug\Lab16.exe
+D:\2 курс\ООП\OOP-labs-1.0\Lab16\Lab16\bin\Debug\Lab16.pdb
+D:\2 курс\ООП\OOP-labs-1.0\Lab16\Lab16\obj\Debug\Lab16.csprojAssemblyReference.cache
+D:\2 курс\ООП\OOP-labs-1.0\Lab16\Lab16\obj\Debug\Lab16.exe
+D:\2 курс\ООП\OOP-labs-1.0\Lab16\Lab16\obj\Debug\Lab16.pdb

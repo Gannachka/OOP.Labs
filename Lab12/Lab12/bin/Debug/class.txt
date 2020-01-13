@@ -1,0 +1,16 @@
+Lab12.Transport - Method - get_Number
+Lab12.Transport - Method - set_Number
+Lab12.Transport - Method - get_Speed
+Lab12.Transport - Method - set_Speed
+Lab12.Transport - Method - get_Cost
+Lab12.Transport - Method - set_Cost
+Lab12.Transport - Method - toString
+System.Object - Method - Equals
+System.Object - Method - GetHashCode
+System.Object - Method - GetType
+System.Object - Method - ToString
+Lab12.Transport - Constructor - .ctor
+Lab12.Transport - Constructor - .ctor
+Lab12.Transport - Property - Number
+Lab12.Transport - Property - Speed
+Lab12.Transport - Property - Cost
